@@ -1,2 +1,1 @@
-- Isso é apenas um teste.
-- This is only a test.
+a
