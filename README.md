@@ -11,4 +11,4 @@
 # Como você pode nos ajudar, Sr.William?
 > Gostaria de oferecer alguns projetos open-source para didática ou para mostrar meu conhecimento em programação, no entanto, posso ajudar principalmente com esses códigos para iniciantes ou até mesmo veteranos, se for o caso.
 
-EU trabalho com informática, hacking ético e programação com responsabilidade e puro amor!! Não por dinheiro!
+- **_"EU trabalho com informática, hacking ético e programação com responsabilidade e puro amor!! Não por dinheiro!"_**
