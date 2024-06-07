@@ -1,5 +1,5 @@
 # Biografia
-> Olá mundo! Sou um programador iniciante brasileiro que gosta de estudar coisa os envolvendo sistemas operacionais, códigos e algumas curiosidades
+> Olá mundo! Sou um programador iniciante brasileiro que gosta de estudar coisa os envolvendo sistemas operacionais, códigos e algumas curiosidades, além de peculiariadades!
 > Normalmente, gosto de escrever em Python e C/C++, até por que são linguagens que eu já tive um contato mais fácil pra mim, mas tô no caminho do aprendizado!
 
 # Como é a sua experiência em programação?
@@ -9,4 +9,4 @@
 # Como você pode nos ajudar, Sr.William?
 > Gostaria de oferecer alguns projetos open-source para didática ou para mostrar meu conhecimento em programação, no entanto, posso ajudar principalmente com esses códigos para iniciantes ou até mesmo veteranos, se for o caso.
 
-'EU trabalho com informática, hacking ético e programação com responsabilidade e puro amor!! Não por dinheiro, meu povão!'
+´EU trabalho com informática, hacking ético e programação com responsabilidade e puro amor!! Não por dinheiro, meu povão!´
