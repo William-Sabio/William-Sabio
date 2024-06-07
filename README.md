@@ -1,5 +1,5 @@
 # Biografia
-> Olá mundo! Sou um programador iniciante brasileiro que gosta de estudar coisa os envolvendo sistemas operacionais, códigos e algumas curiosidades, além de peculiariadades!\n
+> Olá mundo! Sou um programador iniciante brasileiro que gosta de estudar coisa os envolvendo sistemas operacionais, códigos e algumas curiosidades, além de peculiariadades!
 > Normalmente, gosto de escrever em Python e C/C++, até por que são linguagens que eu já tive um contato mais fácil pra mim, mas tô no caminho do aprendizado!
 
 # Como é a sua experiência em programação?
