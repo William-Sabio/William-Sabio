@@ -1,6 +1,3 @@
-- Vamos revisar as coisas por aqui!
-
-# William - Biografia
 > Olá mundo! Sou um programador (JOVEM) iniciante (puxado ao intermediário hehe) brasileiro que gosta de estudar a arte da engenharia da computação que seja envolvendo sistemas operacionais, códigos e algumas curiosidades, além de peculiariadades!  
 > Normalmente, gosto de escrever em Python e C/C++, até por que são linguagens que eu já tive um contato mais fácil pra mim, mas tô no caminho do aprendizado!  
 
